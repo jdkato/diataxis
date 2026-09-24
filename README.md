@@ -55,7 +55,7 @@ Levels and limits are settings:
 [explanation/*.md]
 BasedOnStyles = Explanation
 Explanation.Reference[max] = 12
-Explanation.Why = suggestion
+Tutorial.Options = suggestion
 ```
 
 ## Development
