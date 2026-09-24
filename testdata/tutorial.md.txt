@@ -1,0 +1,6 @@
+fixtures/tutorial.md:1:1:Tutorial.Steps:A tutorial walks the learner through numbered steps; there is no numbered list here.
+fixtures/tutorial.md:3:1:Tutorial.Expectations:Tell the learner what they will see at some point: 'You will see ...', 'Notice that ...'.
+fixtures/tutorial.md:3:1:Tutorial.Opening:Open by saying what the learner will build or be able to do by the end.
+fixtures/tutorial.md:5:13:Tutorial.Options:'Alternatively' offers a choice. A tutorial takes one path; alternatives belong in a how-to guide.
+fixtures/tutorial.md:5:39:Tutorial.Options:'if you prefer' offers a choice. A tutorial takes one path; alternatives belong in a how-to guide.
+fixtures/tutorial.md:5:75:Tutorial.Explanation:'this is because' opens an explanation. Keep it to the step; link to the explanation instead.

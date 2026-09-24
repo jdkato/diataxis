@@ -1,0 +1,5 @@
+fixtures/reference.md:3:1:Reference.Walkthrough:'In this section we' narrates. Reference states; a tutorial walks.
+fixtures/reference.md:3:44:Reference.Walkthrough:'Let's' narrates. Reference states; a tutorial walks.
+fixtures/reference.md:5:23:Reference.Instruction:'You should' instructs or advises. Reference describes; put the guidance in a how-to guide.
+fixtures/reference.md:5:53:Reference.Opinion:'Simply' is an opinion. Reference states what is.
+fixtures/reference.md:5:86:Reference.Opinion:'unfortunately' is an opinion. Reference states what is.

@@ -1,0 +1,4 @@
+fixtures/explanation.md:3:1:Explanation.Why:Explanation answers why. Nothing here says because, the reason, or in order to.
+fixtures/explanation.md:5:4:Explanation.Instruction:'Run' is an instruction. Explanation discusses; put the steps in a how-to guide.
+fixtures/explanation.md:6:4:Explanation.Instruction:'Open' is an instruction. Explanation discusses; put the steps in a how-to guide.
+fixtures/explanation.md:8:1:Explanation.Reference:8 tables. Explanation gives the shape; the full listing is reference, so link to it.

@@ -1,0 +1,6 @@
+fixtures/howto.md:1:1:HowTo.Steps:A how-to guide is a sequence of steps; there is no numbered list here.
+fixtures/howto.md:1:3:HowTo.Title:Name the guide for its goal: 'How to ...' or a verb phrase such as 'Deploying to ...'.
+fixtures/howto.md:3:15:HowTo.Teaching:'you'll learn' is teaching. A how-to guide assumes the reader knows the basics; a tutorial teaches them.
+fixtures/howto.md:3:52:HowTo.Explanation:'Under the hood' opens an explanation. Keep the guide to the steps; link to the explanation.
+fixtures/howto.md:5:3:HowTo.Imperative:'You should' softens an instruction. Write the step as a command.
+fixtures/howto.md:6:3:HowTo.Imperative:'You can' softens an instruction. Write the step as a command.
