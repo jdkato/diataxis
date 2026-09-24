@@ -39,9 +39,9 @@ $ vale sync
 
 | Style | The page is for | What it checks |
 | ----- | --------------- | -------------- |
-| `Tutorial` | Learning by doing | Opens by saying what the learner will build. Numbered steps. No choices offered, no explanation of why, and the learner is told what they will see. |
-| `HowTo` | Reaching a goal | Named for the goal, "How to ..." or "Deploying ...". Numbered steps written as commands. No teaching, no explaining. |
-| `Reference` | Looking something up | Describes without advising: no "you should", no "we recommend". Neutral: no "simply", "unfortunately", "obviously". States rather than narrates: no "in this section we will". |
+| `Tutorial` | Learning by doing | Opens by saying what the learner will build, and says "we". Numbered steps. No choices offered, no explanation of why, and the learner is told what they will see. |
+| `HowTo` | Reaching a goal | Named for the goal, "How to ..." or "Deploying ...", and opens by saying what it shows. Numbered steps written as commands. No teaching, no explaining, and the full list of options left to the reference. |
+| `Reference` | Looking something up | Describes without advising: no "you should", no "we recommend"; a warning, "you must not", is allowed. Neutral: no "simply", "unfortunately", "obviously". States rather than narrates, and shows at least one example. |
 | `Explanation` | Understanding | Answers why somewhere. No steps to run, and no tables of every option, which are reference. |
 
 Every rule file starts with a comment saying what it checks and links to

@@ -1,3 +1,4 @@
+fixtures/reference.md:1:1:Reference.Examples:Reference provides examples. There is no code block on this page.
 fixtures/reference.md:3:1:Reference.Walkthrough:'In this section we' narrates. Reference states; a tutorial walks.
 fixtures/reference.md:3:44:Reference.Walkthrough:'Let's' narrates. Reference states; a tutorial walks.
 fixtures/reference.md:5:23:Reference.Instruction:'You should' instructs or advises. Reference describes; put the guidance in a how-to guide.

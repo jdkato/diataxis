@@ -1,6 +1,7 @@
-# Reference describes; it doesn't instruct or advise. "The timeout is 30
-# seconds", not "you should set the timeout". Guidance belongs in a how-to
-# guide.
+# Reference describes; it doesn't advise. "The timeout is 30 seconds", not
+# "you should set the timeout". Guidance belongs in a how-to guide. A
+# warning is allowed, "you must not apply b unless c", so "must" and
+# "never" are not flagged.
 # https://diataxis.fr/reference/#the-language-of-reference
 extends: existence
 message: "'%s' instructs or advises. Reference describes; put the guidance in a how-to guide."
@@ -9,14 +10,10 @@ level: error
 ignorecase: true
 tokens:
   - you should
-  - make sure (?:that |to )?
   - we recommend
   - it is recommended
   - best practice
   - "it(?:'s| is) a good idea"
-  - be sure to
-  - remember to
-  - "don't forget"
 
 tests:
   - name: fires
