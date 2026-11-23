@@ -18,7 +18,7 @@ kind, which is how Diátaxis-shaped documentation is usually laid out:
 
 ```ini
 StylesPath = styles
-Packages = https://github.com/jdkato/diataxis/releases/latest/download/Diataxis.zip
+Packages = Diataxis
 
 [tutorials/*.md]
 BasedOnStyles = Tutorial
@@ -36,6 +36,10 @@ BasedOnStyles = Explanation
 ```console
 $ vale sync
 ```
+
+`Diataxis` is in the [package library](https://vale.sh/explorer), so the
+name is enough. To pin a version, give its release URL instead:
+`https://github.com/jdkato/diataxis/releases/download/<version>/Diataxis.zip`.
 
 | Style | The page is for | What it checks |
 | ----- | --------------- | -------------- |
